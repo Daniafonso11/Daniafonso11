@@ -1,6 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working on aviation!
-- 🌱 I’m currently learning how to be a teacher!
+### Hola!! Soy Daniel 👋
+- 🔭 Actualmente trabajo en el mundo de la aviación!
+- 🌱 Por otro lado, estoy aprendiendo a ser un buen profesor!
 
 <!--
 **Daniafonso11/Daniafonso11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
